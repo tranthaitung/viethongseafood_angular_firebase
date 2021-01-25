@@ -1,0 +1,44 @@
+<!-- Page Title-->
+<!-- <div class="page-title">
+  <div class="container">
+    <div class="column">
+      <h1>{{ title }}</h1>
+    </div>
+    <div class="column">
+      <ul class="breadcrumbs">
+        <li>
+          <a routerLink="/home" href="">Home</a>
+        </li>
+        <ng-container *ngFor="let child of children">
+          <li class="separator">&nbsp;</li>
+          <li>
+            <a *ngIf="child.link; else noLink" [routerLink]="child.link">{{ child.title }}</a>
+            <ng-template #noLink>{{child.title}}</ng-template>
+          </li>
+        </ng-container>
+      </ul>
+    </div>
+  </div>
+</div> -->
+
+<section class="page-title">
+  <div class="auto-container">
+    <div class="inner-container clearfix">
+      <!-- <h1 style="font-size: 26px;">{{ title }}</h1> -->
+      <ul class="bread-crumb clearfix">
+        <li>
+          <a routerLink="/home" href="" style="text-decoration: none"> <i class="fa fa-home"></i></a>
+        </li>
+        <ng-container *ngFor="let child of children">
+          <!-- <li class="separator">&nbsp;</li> -->
+
+          <li>
+            <a *ngIf="child.link; else noLink" [routerLink]="child.link"
+              style="text-decoration: none">{{ child.title }}</a>
+            <ng-template #noLink>{{child.title}}</ng-template>
+          </li>
+        </ng-container>
+      </ul>
+    </div>
+  </div>
+</section>

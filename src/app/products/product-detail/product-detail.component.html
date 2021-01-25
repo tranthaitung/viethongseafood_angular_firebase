@@ -1,0 +1,89 @@
+<div class="product-detail" [ngClass]="{'loading' : productLoading}">
+  <div *ngIf="product">
+
+    <app-page-title title="{{ product.name }}" [children]="[{title: title_, link: '/products'}, {title: product.name}]">
+    </app-page-title>
+
+
+    <!-- Page Content-->
+    <div class="container padding-bottom-3x mb-1">
+      <div class="row">
+        <!-- Poduct Gallery-->
+        <div class="col-md-6">
+          <div class="product-gallery">
+            <!-- <app-image-detail [imgUrl] = "imagesUrl"></app-image-detail> -->
+          
+
+            <div class="product-gallery-image" [ngClass]="{'loading': !imagesLoaded.includes(activeImageUrl)}">
+              <img [hidden]="!imagesLoaded.includes(activeImageUrl)" class="img-fluid" src="{{activeImageUrl}}"
+                alt="{{product.name}}" (load)="onImageLoad($event)">
+            </div>
+            <ul class="product-thumbnails">
+              <li *ngFor="let image of product.imageURLs; let i = index" [ngClass]="{'active': i === activeImageIndex}">
+                <a href="" (click)="onSelectThumbnail($event, i)" class="product-thumbnail-image"
+                  [ngClass]="{'loading': !imagesLoaded.includes(activeImageUrl)}">
+                  <img [hidden]="!imagesLoaded.includes(image)" [src]="image" alt="{{product.name}}"
+                    (load)="onImageLoad($event)">
+                </a>
+              </li>
+            </ul>
+
+          </div>
+        </div>
+        <!-- Product Info-->
+        <div class="col-md-6">
+          <div class="padding-top-2x mt-2 hidden-md-up"></div>
+          <!-- <app-rating-stars [rating]="product.currentRating"></app-rating-stars> 
+          <span *ngIf="product.ratings" class="text-muted align-middle">{{ ratingCount }} customer reviews</span> -->
+          <h2 class="padding-top-1x text-normal">{{ product.name }}</h2>
+          <div *ngIf="product.code">
+            <h4 class="padding-top-1x"><strong>Product code: </strong>{{product.code}}</h4>
+          </div>
+          <div *ngIf="product.price">
+            <h4 class="padding-top-1x"> <strong>Price: </strong> {{ product.price }}</h4>
+          </div>
+          
+          <hr>
+
+          <!-- <span class="h2 d-block">
+            <app-price [product]="product"></app-price>
+          </span> -->
+
+          <div class="pt-1 mb-2">
+            <p class="text-medium"><strong>Product ID: </strong>{{ product.id }}</p>
+            <p class="text-medium"><strong>Name: </strong>{{ product.name }}</p>
+            <p class="text-medium"> <strong>Specification: </strong> {{ product.specification }}</p>
+            <p class="text-medium"> <strong>Size: </strong> {{ product.size }}</p>           
+            <p class="text-medium"> <strong>Packing: </strong> {{ product.packing }}</p>
+          </div>
+
+          <hr class="mb-3">
+          <div class="row">
+            <div class="col-md-auto">
+              <a href="tel:0907484813" style="text-decoration: none;">
+                <button class="btn btn-primary"><strong>Hotline: (+84) 907-484-813</strong></button>
+              </a>
+            </div>
+
+            <div class="col-md-auto">
+              <div class="social-btn text-center">
+                <a class="social-button shape-circle sb-facebook" href="https://www.facebook.com/seafoodviethong"
+                  style="background-color: #4285F4; color: white;">
+                  <i class="socicon-facebook"></i>
+                </a>
+                <a class="social-button shape-circle sb-youtube" style="background-color: #e53935; color: white;"
+                  href="https://www.youtube.com/channel/UCJWMa5v1dP8ygqGJxE0yKKg?view_as=subscriber">
+                  <i class="socicon-youtube"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <app-p-widget></app-p-widget>
+
+    </div>
+
+  </div>
+</div>

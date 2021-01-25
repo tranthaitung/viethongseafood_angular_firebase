@@ -1,0 +1,72 @@
+<!-- <div class="container" style="width: auto; padding-top: 10px; background-color: #2E2E2E;">
+    <div class="row">
+        <div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+
+                    <div class="d-none d-lg-block">
+                        <app-p-lg [p_lg]="product_data"></app-p-lg>
+                    </div>
+
+                    
+                    <div class="d-none d-md-block d-lg-none">
+                        <app-p-md [p_md]="product_data_md"></app-p-md>
+                    </div>
+
+                    
+                    <div class="d-none d-sm-block d-md-none">
+                        <app-p-sm [p_sm]="product_data_sm"></app-p-sm>
+                    </div>
+                    <div class="d-block d-sm-none">
+                        <app-p-xs [p_xs]="product_xs"></app-p-xs>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> -->
+
+
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide">
+           <app-product-box [product]="product_data[0]"></app-product-box>
+        </div>
+        <div class="swiper-slide">
+            <app-product-box [product]="product_data[1]"></app-product-box>
+        </div>
+        <div class="swiper-slide">
+            <app-product-box [product]="product_data[2]"></app-product-box>
+        </div>
+        <div class="swiper-slide">
+            <app-product-box [product]="product_data[3]"></app-product-box>
+         </div>
+         <div class="swiper-slide">
+             <app-product-box [product]="product_data[4]"></app-product-box>
+         </div>
+         <div class="swiper-slide">
+             <app-product-box [product]="product_data[5]"></app-product-box>
+         </div>
+         <div class="swiper-slide">
+            <app-product-box [product]="product_data[7]"></app-product-box>
+         </div>
+         <div class="swiper-slide">
+             <app-product-box [product]="product_data[8]"></app-product-box>
+         </div>
+         <div class="swiper-slide">
+             <app-product-box [product]="product_data[9]"></app-product-box>
+         </div>
+         <div class="swiper-slide">
+            <app-product-box [product]="product_data[10]"></app-product-box>
+        </div>
+        <div class="swiper-slide">
+            <app-product-box [product]="product_data[11]"></app-product-box>
+        </div>
+
+
+    </div>
+    <!-- Add Pagination -->
+    <!-- <div class="swiper-pagination"></div> -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+</div>

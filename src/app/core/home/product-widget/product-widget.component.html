@@ -1,0 +1,147 @@
+<!-- <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="0">
+
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+  </ol>
+
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="row no-gutters">
+        <div class="project-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp" *ngFor="let product of products_active;">
+          <div class="inner-box">
+            <div class="image-box">
+              <figure class="image">
+                <a routerLink="/products/{{ product.id }}" href="#" style="text-decoration: none">
+                  <img src="{{ product.imageRefs }}" alt="">
+                </a>
+              </figure>
+              <div class="caption-box">
+                <h4>{{ product.name }}</h4>
+              </div>
+              <div class="overlay-box">
+                <div class="inner">
+                  <h4><a routerLink="/products/{{ product.id }}" href="#"
+                      style="text-decoration: none">{{ product.name }}</a></h4>
+                  <div class="link-box"><a routerLink="/products/{{ product.id }}" href="#"
+                      style="text-decoration: none; width: 100px; height: 50px; padding: 10px 2px">{{btn_title}}<i
+                        class="fa fa-caret-right"></i></a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="carousel-item">
+      <div class="row no-gutters">
+        <div class="project-block col-lg-3 col-md-6 col-sm-12 wow fadeInUp" *ngFor="let product of products">
+
+          <div class="inner-box">
+            <div class="image-box">
+              <figure class="image">
+                <a routerLink="/products/{{ product.id }}" href="#" style="text-decoration: none">
+                  <img src="{{ product.imageRefs }}" alt="">
+                </a>
+              </figure>
+              <div class="caption-box">
+                <h4>{{ product.name }}</h4>
+              </div>
+              <div class="overlay-box">
+                <div class="inner">
+                  <h4><a routerLink="/products/{{ product.id }}" href="#"
+                      style="text-decoration: none">{{ product.name }}</a></h4>
+                  <div class="link-box"><a routerLink="/products/{{ product.id }}" href="#"
+                      style="text-decoration: none; width: 100px; height: 50px; padding: 10px 2px">{{btn_title}}<i
+                        class="fa fa-caret-right"></i></a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+    <i class="fa fa-angle-left"></i>
+  </a>
+  <a class="carousel-control-next" href="#myCarousel" data-slide="next">
+    <i class="fa fa-angle-right"></i>
+  </a>
+</div> -->
+
+
+<!-- <div class="container" style="width: auto; padding-top: 10px;">
+  <div class="row">
+    <div>
+      <div class="carousel-inner">
+        <div class="carousel-item active"> 
+          <div class="d-none d-lg-block">
+            <app-product-lg [product_data]="product_data"></app-product-lg>
+          </div>
+
+          <div class="d-none d-md-block d-lg-none">
+            <app-product-md [product_md]="product_data_md"></app-product-md>
+          </div>
+   
+          <div class="d-none d-sm-block d-md-none">
+            <app-product-sm [product_sm]="product_data_sm"></app-product-sm>
+
+          </div>
+          <div class="d-block d-sm-none">
+            <app-product-xs [product_xs]="product_xs"></app-product-xs>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> -->
+
+<div class="swiper-container">
+  <div class="swiper-wrapper">
+      <div class="swiper-slide">
+         <app-product-box-data [product]="product_data[0]"></app-product-box-data>
+      </div>
+      <div class="swiper-slide">
+          <app-product-box-data [product]="product_data[1]"></app-product-box-data>
+      </div>
+      <div class="swiper-slide">
+          <app-product-box-data [product]="product_data[2]"></app-product-box-data>
+      </div>
+      <div class="swiper-slide">
+          <app-product-box-data [product]="product_data[3]"></app-product-box-data>
+       </div>
+       <div class="swiper-slide">
+           <app-product-box-data [product]="product_data[4]"></app-product-box-data>
+       </div>
+       <div class="swiper-slide">
+           <app-product-box-data [product]="product_data[5]"></app-product-box-data>
+       </div>
+       <div class="swiper-slide">
+          <app-product-box-data [product]="product_data[7]"></app-product-box-data>
+       </div>
+       <div class="swiper-slide">
+           <app-product-box-data [product]="product_data[8]"></app-product-box-data>
+       </div>
+       <div class="swiper-slide">
+           <app-product-box-data [product]="product_data[9]"></app-product-box-data>
+       </div>
+       <div class="swiper-slide">
+          <app-product-box-data [product]="product_data[10]"></app-product-box-data>
+      </div>
+      <div class="swiper-slide">
+          <app-product-box-data [product]="product_data[11]"></app-product-box-data>
+      </div>
+
+
+  </div>
+  <!-- Add Pagination -->
+  <!-- <div class="swiper-pagination"></div> -->
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+</div>

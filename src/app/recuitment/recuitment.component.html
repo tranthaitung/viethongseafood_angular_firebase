@@ -1,0 +1,43 @@
+<app-page-title title={{title}} [children]="[{title: title}]"></app-page-title>
+
+<section class="case-studies-two style-two">
+    <div class="auto-container">
+        <div class="case-tabs tabs-box">
+            <div class="tabs-content">
+                <div class="tab active-tab">
+                    <div class="case-tab">
+                        <div class="row">
+                            <div class="content-column col-lg-12 col-md-12 col-sm-12">
+                                <div class="inner-column">
+                                    <div *ngIf="about">
+                                        <div class="title">
+                                            <h3 style="text-transform: uppercase; text-align: center;">{{about.heading}}
+                                            </h3>
+                                        </div>
+                                        <div *ngIf="about.des">
+                                            <p class="text" style="text-align: justify;">{{about.des}}</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<div>
+    <div class="image-column col-lg-12">
+        <div class="inner-column">
+            <div class="image-box">
+                <figure class="image"><img src="{{imgUrl}}"
+                        alt=""></figure>
+            </div>
+
+        </div>
+    </div>
+</div>

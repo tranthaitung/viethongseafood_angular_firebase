@@ -1,0 +1,1216 @@
+{
+  "en": {
+    "imageFeaturedUrl": {
+      "imageFeaturedUrl": {
+        "mainslider": [
+          "assets/img/background/banner1.jpg",
+          "assets/img/background/banner2.jpg",
+          "assets/img/background/banner3.jpg"
+        ],
+        "about": [
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/600x400.jpg?alt=media&token=37832996-035c-4a1b-8f3e-dc80b4be2540",
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/600x400-2.jpg?alt=media&token=89d7fadf-991b-4567-86d8-401894505877",
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/600x400-3.jpg?alt=media&token=098edd1f-ecc3-4227-ab22-a464c84d5bd7"
+        ]
+      }
+    },
+    "content": {
+      "about": {
+        "id": "about",
+        "des": [
+          {
+            "id": "intro",
+            "heading": "INTRODUCTION",
+            "title": "Viet Hong is a well-known pangasius exporter in Vietnam",
+            "imgUrl": "assets/img/about.jpg",
+            "des": [
+              {
+                "imgUrl": "",
+                "des": "Viet Hong Joint Stock Company was established in 2007 to bring the best quality pangasius product of Vietnamese agriculture to domestic consumers and international partners. Up to now, Viet Hong has spent more than 13 years of establishment. Through many ups and downs periods, Viet Hong has been recognized by domestic and international consumers for its stability of our brand, value and quality."
+              },
+              {
+                "des": "Viet Hong's products are always committed to bringing nutritional value and safety to consumers' health, including from the stage of choosing breeding stock, animal feed to end-products' processing and preservation."
+              },
+              {
+                "des": "Viet Hong has been and will constantly strive for bringing values to farmers and consumers. Besides that, we also try to bring the ‘Made in Vietnam’ brand to further outreach out of the Vietnamese territory, as well as introduce valuable and quality products, which are made by many generations of Vietnamese fishermen, to global consumers."
+              },
+              {
+                "des": "The core value that Viet Hong always aims at is 'clean and nutritious products that are good for the health of consumers'. And that is also the slogan that Viet Hong has chosen to orient and implement over the past 13 years."
+              },
+              {
+                "des": "With a strategy towards the customers' demand for a clean and natural origin of food, Viet Hong has invested in a food processing factory and provided the breeding stock at the farm as a closed process. As a result, products made by Viet Hong are always getting better and better because of actively controlling disease sources of livestock as well as food hygiene and safety at the first stage."
+              },
+              {
+                "des": "At all stages, from breeding stock to finished products are under TCVN (Vietnamese standards) and international standards, WE SAY NO WITH USING PRESERVATIVES."
+              }
+            ]
+          }
+        ]
+      },
+      "product": {
+        "id": "product",
+        "des": [
+          {
+            "id": "intro",
+            "heading": "PRODUCT",
+            "des": "Vietnamese pangasius is not only known as a source of high-quality food, but also as the main ingredient for the beauty and functional foods processing industry. Based on global trends, Viet Hong proudly provides pangasius products with the highest quality index, consist of 'Pangasius Fillet White Meat', 'Pangasius Fillet Red Meat', 'HGT', 'Steaks', \"Whole Gutted\", \"Butterfly\" and \"Breaded Fillets\". We are committed to providing natural and hygienic products, in both aquaculture and production processing stages."
+          }
+        ]
+      },
+      "recruitment": {
+        "id": "recruitment",
+        "des": [
+          {
+            "id": "intro",
+            "imgUrl":"https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/tuyendung_en.jpg?alt=media&token=77ae63c9-624f-4f3b-86e4-0d423e2fe94c",
+            "heading": "RECRUITMENT",
+            "des": "Humans are the core value for sustainable development. We always try to create the best working environment for our staff and are continually looking for the most suitable candidates to join our team."
+          }
+        ]
+      },
+      "mission": {
+        "id": "mission",
+        "heading": "MISSION",
+        "mission": {
+          "heading": "MISSION",
+          "brief":[
+            "Viet Hong constantly learns, creates, applies and brings knowledge and experience into play, which gained from the past in the whole pangasius farming chain, for example from breeding, caring, feeding, production, processing and storage. With the mission of bringing consumers clean and nutritious products, not only for Vietnamese families but also to the whole world."
+          ]
+        },
+        "vision": {
+          "heading": "VISION",
+          "brief":[
+            "Through owning a closed process in aquaculture, from the stage of choosing breeding stock, animal feed, processing to the finished products' preservation, Viet Hong aims to become a reputable pangasius exporter, leading in quality, conveyance, as well as customer care with the expectation that consumers will receive the products with the best quality."
+          ]
+        },
+        "imgUrl": "assets/img/vision.jpg"
+      },
+      "corevalue": {
+        "id": "corevalue",
+        "heading": "Core Value",
+        "brief": "The core values and criteria of Viet Hong are most clearly and accurately expressed through the corporation's logo and slogan that every single consumer can see and have the trust in us.",
+        "des": [
+          {
+            "heading": "Quality",
+            "des": "'Prestige and quality are the core platform for branding', Viet Hong commits that every product delivered to consumers is strictly controlled in a closed process, ensuring that all strict European standards are met."
+          },
+          {
+            "heading": "Innovation and Creation",
+            "des": "Viet Hong always challenges itself and tries to overcome limits by continuously innovating, combining traditional experience and technology. Viet Hong has always been a pioneer in the revolution of Vietnam's fishery industry"
+          },
+          {
+            "heading": "Dedicated",
+            "des": "Viet Hong is proud of being able to cooperate with a team of staff with extensive experience in the aquaculture industry. The stages from farming to production and processing are done with dedication, sincerity, enthusiasm and responsibility in the work of each employee. At Viet Hong, with union, love and unity at work, it will bring the best values to all employees working at the company and customers."
+          },
+          {
+            "heading": "Responsibility",
+            "des": "Viet Hong always puts responsibility first, in parallel with the company's continuous development efforts, as well as the fishery industry in Vietnam. The company's commitment to the company's development always comes with environmental responsibility, social benefits, and above all, food safety and hygiene for customers."
+          }
+        ]
+      },
+      "market": {
+        "id": "market",
+        "heading": "MARKET",
+        "brief": "Viet Hong is proud to be one of the enterprises exporting to Europe and the world in the near future. With a commitment to quality standards, food safety and hygiene, clean farming, processing by modern technology, and meeting the most rigorous standards of Vietnam and Europe. With a new strategic vision of the market, from 2020, Viet Hong will focus on new potential and large markets such as Middle East countries, South America and China. Besides, Viet Hong will prepare resources to re-establish in the US market.",
+        "imgUrl": "assets/img/image-1.jpg"
+      },
+      "aquacutule": {
+        "id": "aquacutule",
+        "des": [
+          {
+            "id": "intro",
+            "heading": "AQUACUTULE",
+            "des": "Viet Hong is a well-known pangasius exporter in Vietnam. The company concentrates mainly on farming, processing and exporting pangasius under a closed process. We pride ourselves in providing high-quality products and food safety according to European standards."
+          },
+          {
+            "id": "",
+            "heading": "",
+            "des": [
+              {
+                "heading": "FARMING AREA",
+                "imgUrl": [
+                  "assets/img/farming.jpg"
+                ],
+                "des": [
+                  {
+                    "des": "Farm's location is one of the most important factors of the farm. Viet Hong's farms adhere to the strictest standards of the world in the field of aquaculture, from the construction site, water sources, water quality, energy, transportation, larvae supplies to construction design such as building a farm suitable for breeding, investing in suitable equipment farm's capacity."
+                  },
+                  {
+                    "des": "Viet Hong owns a farming area with an area of up to 50 hectares, located in Hong Ngu - Dong Thap, which is known as the pangasius capital of the country. This place has a favourable geographical location for concentrated farming, weather, and convenient transportation for road and waterway."
+                  },
+                  {
+                    "des": "Viet Hong's farm is capable of providing up to 200 tons of raw materials/day for the factory's production."
+                  }
+                ]
+              },
+              {
+                "heading": "Breeding stock",
+                "imgUrl": [
+                  "assets/img/breedingstock.jpg"
+                ],
+                "des": [
+                  {
+                    "des": "Breeding stock is the key to the efficiency of farming. It is the first stage in the value chain of the fishery industry, so the breeding stock selection will affect all stages of the manufacturing sector remaining."
+                  },
+                  {
+                    "des": "Strictly controlled breeding stock will give good quality livestock, fewer diseases, leading to increased farming productivity and product quality. Good breeding stock control also reduces the risk of disease spread to other areas, increases economic value for fishing households as well as contributes to society."
+                  },
+                  {
+                    "des": "Self-production of breeding stock at Viet Hong helps to maximize quality control and disease control. Thereby, it helps to ensure the disease and quality of the breeding stock at the very first stage of farming."
+                  }
+                ]
+              },
+              {
+                "heading": "Feed",
+                "imgUrl": [
+                  "assets/img/Feed.jpg"
+                ],
+                "des": [
+                  {
+                    "des": "Along with the breeding stock, animal feed is one of the most basic and important steps in raising. Animal feed is a product that provides nutrition as well as ingredients that are beneficial for the growth of fish."
+                  },
+                  {
+                    "des": "The feed is added to animals either raw or processed and preserved. These foods include nutritional foods and supplements in the form of ingredients, single feed, complete mixed feed, concentrated feed, fortified feed, supplementary additive, and products added to the farming environment when added to improved fisheries and aquaculture more effectively increased."
+                  },
+                  {
+                    "des": "Food unsafety hazards are conditions of inadequate production or in products containing physical, chemical or biological agents that are potentially harmful to the health and life of fish and consumers."
+                  },
+                  {
+                    "des": "By self-producing animal feed, Viet Hong ensures to create a nutritious food source that is most suitable for each kind of breed raised. The quality of the food source is the most assured and suitable for each kind of breed. Strict quality control helps the fishes on Viet Hong's farm always ensure their health and optimal growth conditions."
+                  }
+                ]
+              },
+              {
+                "heading": "Pond Management",
+                "imgUrl": [
+                  "assets/img/Pond.jpg"
+                ],
+                "des": [
+                  {
+                    "des": "Viet Hong's ponds meet the national technical standard on pangasius farming. Ponds strictly controlled from the preparation stage before raising fish from pond bottom, sloping slope, permeability, to ensure no organic humus. Next, the stages of breeding selection - stocking - growing - harvesting. The control of the pond environment such as the microorganisms and antibiotics contents is always conducted periodically. Each pond has two employees in charge of directly monitoring the daily environmental parameters of the pond to evaluate the health of breeds, Each pond has 2 employees in charge of directly monitoring the pond environmental parameters daily to assess the health of the breeds, in order to promptly detect abnormal manifestations of the pond environment and livestock; from there, give timely measures."
+                  }
+                ]
+              },
+              {
+                "heading": "Factory",
+                "imgUrl": [
+                  "assets/img/factory.jpg"
+                ],
+                "des": [
+                  {
+                    "des": "Viet Hong factory is located in Hong Ngu - Dong Thap, which is considered as the pangasius capital of Vietnam and meets all domestic, European and international standards. With modern equipment, favourable geographical location, proficient workers, products of Viet Hong always achieve the highest quality. Viet Hong always focuses on quality control of food safety and hygiene from raw materials to finished products and ready for being exported to the market. With the motto 'Gain customers' trust with the quality of the product', Viet Hong always strives to improve and develop core values in order to improve product quality to become a reputable brand in the domestic and international market."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "processing": {
+        "id": "processing",
+        "heading": "PROCESSING",
+        "des": [
+          {
+            "id": "1",
+            "stage": "Receiving raw materials",
+            "specifications": [
+              {
+                "spec": ""
+              }
+            ],
+            "description": [
+              {
+                "des": "Before purchasing, raw materials have been controlled by the purchasing department basing on criteria such as antibiotics, a superabundance of toxic substances. Besides that, there are enough certificates to guarantee the quality control of fish in the farming process such as no use of banned and restricted antibiotics and controlled food. The raw materials are purchased and transported to the factory by boats."
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "stage": "Pharynx removal",
+            "specifications": [
+              {
+                "spec": ""
+              }
+            ],
+            "description": [
+              {
+                "des": "After receiving the fish, the fish are moved to the pharynx removal stage through the raw material trough. Then, workers at the pharynx removal stage will use a specialized knife to cut the fish's pharynx for the purpose of killing fish and removing all blood on its body. As a result, the fillet is white and more eye-catching."
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "stage": "Washing 1",
+            "specifications": [],
+            "description": [
+              {
+                "des": "After the pharynx removal stage, fish are transferred to washing 1 stage to wash blood, slime and impurities on the fish’s surface. Fish are washed with an automatic washing machine. Fish are washed with automagical washing machines. Fish soaking time from 7 to 10 minutes."
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "stage": "Fillet",
+            "specifications": [],
+            "description": [
+              {
+                "des": "After washing 1 stage, fish will be conveyed to the fillet stage by conveyor. Fillet stage is to separate the fish meat from the head, fish bones and viscera."
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "stage": "Washing 2",
+            "specifications": [],
+            "description": [
+              {
+                "des": "After the fillet stage, fish is transferred to the washing stage 2. The semi-finished product is washed with an automatic washing machine. "
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "stage": "Skin removal",
+            "description": [
+              {
+                "des": "After washing 2 stage, semi-finished products are passed through the skin slicing machine to remove all skin, creating favorable conditions for fish correction."
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "stage": "Correction",
+            "description": [
+              {
+                "des": "After skin removal, making adjustments to remove red meat, fat, bones and skin to increase eye-catching, as well as reduce microorganisms on the fish surface, thereby giving the fish a certain shape."
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "stage": "Preliminary evaluation",
+            "description": [
+              {
+                "des": "Each fish basket after the correction stage will be transferred to the preliminary evaluation. At this stage, the worker checks each block of fish fillet, whether the back fat, waist fat, white scalp, black scalp, or roughness of fish are gone or not. If the fish meets all requirements, it will be weighted to determine productivity. Then semi-finished products are transferred to parasitic scanning."
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "stage": "Parasitic scanning",
+            "description": [
+              {
+                "des": "After the preliminary evaluation is completed, semi-finished products are transferred to the parasitic scanning stage. The parasitic scanning workers will place each block of fillet on the scanning table, observe by eyes and remove the fillets which contain parasites, black spots, red spots."
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "stage": "Washing 3",
+            "description": [
+              {
+                "des": "The semi-finished product, after parasitic scanning, is transferred to the washing 3 stage. Semi-finished products are put into the washing devices to remove impurities, wash away the scum fat and fat clinging on the fish surface."
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "stage": "Additive treatment",
+            "description": [
+              {
+                "des": "After the washing stage, the semi-finished product Semi-finished products will be drained and put in a specialized rotation machine for the additive treatment. As a result, it makes the fillet lustrous, eye-catching, and ensures quality during frozen and preservation stages."
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "stage": "Size and color classification",
+            "description": [
+              {
+                "des": "The semi-finished product, after parasitic scanning, is transferred to the washing 3 stage. Semi-finished products are put into the washing devices to remove impurities, wash away the scum fat and fat clinging on the fish surface."
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "stage": "Measuring",
+            "description": [
+              {
+                "des": "Measuring stage to determine the volume for each block, depending on the requirements of each customer. After the measure is completed, the semi-finished products will be transferred to the molding stage."
+              }
+            ]
+          },
+          {
+            "id": "14",
+            "stage": "Molding",
+            "description": [
+              {
+                "des": "After measuring is completed, the semi-finished products are put into molds to wait for frozen. Shaping blocks help to increase the products’ eye-catching."
+              }
+            ]
+          },
+          {
+            "id": "15",
+            "stage": "Waiting for frozen",
+            "description": [
+              {
+                "des": "After molding or classification, if there is not enough quantity for frozen or the frozen equipment is overloaded or does not work unexpectedly, it will be put into the waiting for frozen stage."
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "stage": "Frozen",
+            "description": [
+              {
+                "des": "After having enough semi-finished products for frozen, the frozen will be conducted:"
+              }
+            ]
+          },
+          {
+            "id": "17",
+            "stage": "Mold Separation (Block)",
+            "description": [
+              {
+                "des": "For Block frozen products, after being frozen, it is transferred through the mold separation stage, then it is transferred through metal detection and packaging."
+              }
+            ]
+          },
+          {
+            "id": "18",
+            "stage": "Ice glazing",
+            "description": [
+              {
+                "des": "For frozen products in IQF form, after frozen, ice glazed products."
+              }
+            ]
+          },
+          {
+            "id": "19",
+            "stage": "Re-frozen",
+            "description": [
+              {
+                "des": "The ice glazing process generates heat, so the product must be re-frozen. The re-frozen is performed by a re-frozen device to ensure the correct temperature in the center of the product."
+              }
+            ]
+          },
+          {
+            "id": "20",
+            "stage": "Measure",
+            "description": [
+              {
+                "des": "Before packaging, the product is weighed to determine its weight. Depending on the size of the fish and the kind of orders that the product has a different weight."
+              }
+            ]
+          },
+          {
+            "id": "21",
+            "stage": "Metal detection",
+            "description": [
+              {
+                "des": "After being weighed, products which meet requirements are added to PE/PA and then transferred to the metal detecting stage."
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "stage": "Packaging",
+            "description": [
+              {
+                "des": "For frozen products in Block form: every 2 blocks are packed in a carton or in some cases, it will be according to specific requirements of each customer."
+              }
+            ]
+          },
+          {
+            "id": "23",
+            "stage": "Preservation",
+            "description": [
+              {
+                "des": "After being packed, final products are put into storage."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "products": {
+      "1174268122548": {
+        "date": "2018-04-02",
+        "description": "Skinless, Boneless, Red Meat Off, Belly Off, Fat Off",
+        "id": 1174268122548,
+        "imageRefs": [
+          "assets/img/pangasius-welltrimmed.jpg"
+        ],
+        "imageURLs": [
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/pangasius-welltrimmed.jpg?alt=media&token=3d5ed45a-6b39-4caa-a404-e7d02e740560"
+        ],
+        "name": "Pangasius Fillet White Meat",
+        "specification": "Skinless, Boneless, Red Meat Off, Belly Off, Fat Off",
+        "size": "60/90, 90/120, 120/170, 170/220, 220/300, 220UP, 300UP, 500UP, 800UP (GR)",
+        "packing": "IQF, 10 kg bag, 5kg bag, 1kg bag or meet the customers requirements. Interleaved, 5kg x 2/carton or industrial block 7.5kg x 2 /carton % Net weight and glaze according to customers requirement",
+        "code": "UT",
+        "widget": true
+      },
+      "1460918804231": {
+        "date": "2018-04-02",
+        "description": "Skinless, Boneless, Red Meat On, Belly On, Fat On",
+        "id": 1460918804231,
+        "imageRefs": [
+          "assets/img/catrathitdo.jpg"
+        ],
+        "imageURLs": [
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/catrathitdo.jpg?alt=media&token=f91fa0e8-8c56-4a41-bdcf-92d39db33096"
+        ],
+        "name": "Pangasius Fillet Red Meat",
+        "specification": "Skinless, Boneless, Red Meat On, Belly On, Fat On",
+        "size": "60/90, 90/120, 120/170, 170/220, 220/300, 220UP, 300UP, 500UP, 800UP (GR)",
+        "packing": "IQF, 10 kg bag, 5kg bag, 1kg bag or meet the customers requirements. Interleaved, 5kg x 2/carton or industrial block 7.5kg x 2 /carton % Net weight and glaze according to customers requirement",
+        "code": "UT",
+        "widget": true
+      },
+      "174074709536": {
+        "date": "2018-04-02",
+        "description": "Whole Fish Gutted, Skin On, Head On, Tail On",
+        "id": 174074709536,
+        "imageRefs": [
+          "assets/img/catranguyencon.jpg"
+        ],
+        "imageURLs": [
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/catranguyencon.jpg?alt=media&token=9adef846-7a71-4c25-a420-0caa0754d623"
+        ],
+        "name": "Pangasius Whole Gutted",
+        "specification": "Whole Fish Gutted, Skin On, Head On, Tail On",
+        "size": "60/90, 90/120, 120/170, 170/220, 220/300, 220UP, 300UP, 500UP, 800UP (GR)",
+        "packing": "IQF, 10 kg bag, 5kg bag, 1kg bag or meet the customers requirements. Interleaved, 5kg x 2/carton or industrial block 7.5kg x 2 /carton % Net weight and glaze according to customers requirement",
+        "code": "UT",
+        "widget": true
+      },
+      "262082575518": {
+        "date": "2018-04-02",
+        "description": "Whole Fish, Gutted Skin On, Headless, Tail On",
+        "id": 262082575518,
+        "imageRefs": [
+          "assets/img/nguyenconbodau.jpg"
+        ],
+        "imageURLs": [
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/nguyenconbodau.jpg?alt=media&token=5d126fb5-4e76-4fa4-a407-a48f410a823b"
+        ],
+        "name": "Pangasius HGT",
+        "specification": "Whole Fish, Gutted Skin On, Headless, Tail On",
+        "size": "60/90, 90/120, 120/170, 170/220, 220/300, 220UP, 300UP, 500UP, 800UP (GR)",
+        "packing": "IQF, 10 kg bag, 5kg bag, 1kg bag or meet the customers requirements. Interleaved, 5kg x 2/carton or industrial block 7.5kg x 2 /carton % Net weight and glaze according to customers requirement",
+        "code": "UT",
+        "widget": true
+      },
+      "287006516588": {
+        "date": "2018-04-02",
+        "description": "Skin On, Bone In",
+        "id": 287006516588,
+        "imageRefs": [
+          "assets/img/catracatkhuc.jpg"
+        ],
+        "imageURLs": [
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/catracatkhuc.jpg?alt=media&token=78f4f975-acee-4879-9d51-5f8d12f8f7c9"
+        ],
+        "name": "Pangasius Steaks",
+        "specification": "Skin On, Bone In",
+        "size": "60/90, 90/120, 120/170, 170/220, 220/300, 220UP, 300UP, 500UP, 800UP (GR)",
+        "packing": "IQF, 10 kg bag, 5kg bag, 1kg bag or meet the customers requirements. Interleaved, 5kg x 2/carton or industrial block 7.5kg x 2 /carton % Net weight and glaze according to customers requirement",
+        "code": "UT",
+        "widget": true
+      },
+      "342126594235": {
+        "date": "2018-04-02",
+        "description": "Skin On, Bone On, Belly Flap On, Head On, Tail Off",
+        "id": 342126594235,
+        "imageRefs": [
+          "assets/img/catraxebuom.jpg"
+        ],
+        "imageURLs": [
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/catraxebuom.jpg?alt=media&token=415ef46d-b437-43d6-9f53-15a267a182b5"
+        ],
+        "name": "Pangasius Butterfly",
+        "specification": "Skin On, Bone On, Belly Flap On, Head On, Tail Off",
+        "size": "60/90, 90/120, 120/170, 170/220, 220/300, 220UP, 300UP, 500UP, 800UP (GR)",
+        "packing": "IQF, 10 kg bag, 5kg bag, 1kg bag or meet the customers requirements. Interleaved, 5kg x 2/carton or industrial block 7.5kg x 2 /carton % Net weight and glaze according to customers requirement",
+        "code": "UT",
+        "widget": true
+      }
+    },
+    "news": {
+      "290713": {
+        "id": 290713,
+        "date": "2018-04-02",
+        "title": "The reason should be to eat pangasius regularly.",
+        "brief": "Pangasius contains high levels of omega 3, DHA and EPA, which are good for the brain. Besides that,  It also includes Vitamin E, which helps to inhibit oxidation. Vietnamese pangasius is one of the world's preferred export items. It’s rich in omega 3, 6, 9; DHA, EPA, and natural vitamin E… Therefore, housewives should have pangasius, which is considered as the specialty of the Mekong river on daily meals.",
+        "author": "Viet Hong",
+        "suggest": true,
+        "imageRefs": "assets/img/news/3.png",
+        "des": [
+          {
+            "heading": "Omega 3",
+            "des": [
+              "According to the American Heart Association, omega 3 helps prevent Arteriosclerosis and enhances memory. So, regularly eating fish can avoid the risk of Alzheimer's disease.",
+              "The percentage of unsaturated fatty acids in pangasius fat is quite high (over 70%), no cholesterol, so it's good for health. That is the reason women eat a lot of fish fat but do not gain weight.",
+              "Pangasius fat is also suitable for elderly people. Experts recommend eating fish 2-3 times a week to help the body absorb all the necessary nutrients."
+            ]
+          },
+          {
+            "heading": "DHA và EPA",
+            "des": [
+              "DHA and EPA are derived from omega 3. DHA in pangasius helps to develop perfect vision functions of the eyes and nervous system, helps children to be smart and have bright eyes.",
+              "EPA contributes to the formation of prostaglandin unsaturated fatty acids in the blood, keeping the blood circulation system clear. Eating pangasius helps to prevent diseases related to cardiovascular, caused by atherosclerosis.",
+              "Pangasius contains omega 3, 6, 9, vitamins E and A which help brighten the eyes, reduce cholesterol in the blood, and is good for the heart. Natural DHA and EPA help with brain development."
+            ]
+          },
+          {
+            "heading": "Vitamin E",
+            "des": [
+              "Pangasius also contains antioxidants vitamin E, effective in preventing ageing, and good for the skin of women. Without vitamin E, skin becomes dry, wrinkled, and hair falls out regularly.",
+              "For pregnant women, vitamin E helps the pregnancy period be favorable and the fetus develops better."
+            ]
+          }
+        ]
+      },
+      "290714": {
+        "id": 290714,
+        "date": "2018-04-02",
+        "title": "Capital of Pangasius - Hong Ngu - December 16, 2017",
+        "brief": "On December 16, 2017, the People's Committee of Hong Ngu town held the inauguration of the project named Vietnamese pangasius symbol",
+        "author": "Viet Hong",
+        "suggest": true,
+        "imageRefs": "assets/img/news/4.jpg",
+        "des": [
+          {
+            "heading": "",
+            "des": [
+              "On December 16, 2017, the People's Committee of Hong Ngu town held the inauguration of the project named Vietnamese pangasius symbol",
+              "Hong Ngu town of Dong Thap province is known as the capital of Vietnamese pangasius. This place has a lengthy tradition of aquaculture, accounting for 70% of total commercial pangasius production. In which, the total output in 2018 is 1.42 million tons, Hong Ngu alone accounts for nearly 1 million tons"
+            ]
+          }
+        ]
+      },
+      "290715": {
+        "id": 290715,
+        "date": "2018-04-02",
+        "title": "Established in Hong Ngu city, Dong Thap province - October 15, 2020",
+        "brief": "'Besides the strengths in agricultural production and aquaculture, Hong Ngu is also a major urban center in the border area. Concentrating many industrial production establishments and services that are developed'.",
+        "author": "",
+        "suggest": true,
+        "imageRefs": "assets/img/news/thanhlapthanhpho.png",
+        "des": [
+          {
+            "heading": "",
+            "des": [
+              "'Besides the strengths in agricultural production and aquaculture, Hong Ngu is also a major urban center in the border area. Concentrating many industrial production establishments and services that are developed'.",
+              "Over the past years, the town's economy has had stable growth, and the economic structure has changed positively; people's life has gradually improved, social welfare is focused, fast urbanization, socio-economic infrastructure has been invested and enhanced synchronously in the direction of being civilized and modern. That is advantageous for attracting investment and as a driving force for the socio-economic development of the town in particular and Dong Thap province in general.",
+              "Hong Ngu City is bordered by districts which consist of Hong Ngu, Tan Nong and Tan Hong, and the Kingdom of Cambodia.",
+              "After its establishment, Hong Ngu city had 7 commune-level administrative units, including 5 wards: An Binh A, An Binh B, An Lac, An Loc, An Thanh and 2 communes: Binh Thanh, Tan Hoi.",
+              "Dong Thap province has 12 administrative units at district level, including 9 districts and 3 cities; 143 communal administrative units, including 115 communes, 19 wards and 9 towns."
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "vn": {
+    "imageFeaturedUrl": {
+      "imageFeaturedUrl": {
+        "mainslider": [
+          "assets/img/background/banner1.jpg",
+          "assets/img/background/banner2.jpg",
+          "assets/img/background/banner3.jpg"
+        ],
+        "about": [
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/600x400.jpg?alt=media&token=37832996-035c-4a1b-8f3e-dc80b4be2540",
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/600x400-2.jpg?alt=media&token=89d7fadf-991b-4567-86d8-401894505877",
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/600x400-3.jpg?alt=media&token=098edd1f-ecc3-4227-ab22-a464c84d5bd7"
+        ]
+      }
+    },
+    "content": {
+      "about": {
+        "id": "about",
+        "des": [
+          {
+            "id": "intro",
+            "heading": "Giới Thiệu Chung",
+            "title": "Việt Hồng là doanh nghiệp xuất khẩu cá tra uy tín tại Việt Nam.",
+            "imgUrl": "assets/img/about.jpg",
+            "des": [
+              {
+                "imgUrl": "",
+                "des": "Công ty cổ phần Việt Hồng được thành lập vào năm 2007 với mục tiêu đem sản phẩm cá tra chất lượng nhất của nền nông nghiệp Việt Nam đến với người tiêu dùng và bạn bè quốc tế. Đến thời điểm hiện tại, Việt Hồng đã trải qua hơn 13 năm thành lập. Qua bao thăng trầm, Việt Hồng đã được người tiêu dùng trong nước và quốc tế công nhận về thương hiệu, giá trị và chất lượng ổn định."
+              },
+              {
+                "des": "Sản phẩm của Việt Hồng luôn cam kết đem đến giá trị dinh dưỡng, an toàn cho sức khỏe người tiêu dùng, bao gồm từ khâu con giống, thức ăn chăn nuôi đến quá trình chế biến và bảo quản."
+              },
+              {
+                "des": "Việt Hồng đã, hiện và đang phấn đấu không ngừng để đem đến những giá trị cho người nông dân, người tiêu dùng, đem thương hiệu Việt vươn xa hơn để rạng danh đất nước, cũng như giới thiệu đến các nước bạn những sản phẩm giá trị, chất lượng do ông bà, bố mẹ, các bác, các cô chú, anh chị bạn bè ngư dân nuôi trồng ra."
+              },
+              {
+                "des": "Giá trị mà Việt Hồng luôn hướng đến đó là những “sản phẩm sạch, dinh dưỡng tốt cho sức khỏe người tiêu dùng”. Và đó cũng chính là khẩu hiệu mà Việt Hồng đã lựa chọn để thực hiện suốt hơn 13 năm qua."
+              },
+              {
+                "des": "Với chiến lược hướng đến nhu cầu thực phẩm sạch, nguồn gốc tự nhiên của người tiêu dùng, Việt Hồng đã đầu tư nhà máy chế biến thức ăn và cung cấp con giống ngay tại trang trại với quy trình khép kín, vì thế chất lượng sản phẩm do Việt Hồng luôn được nâng cao, chủ động kiểm soát nguồn dịch bệnh của vật nuôi cũng như vệ sinh an toàn thực phẩm ngay từ khâu con giống."
+              },
+              {
+                "des": "Tất cả các khâu, từ con giống đến thành phẩm đều theo TCVN (tiêu chuẩn Việt Nam) và quốc tế, CAM KẾT 100% KHÔNG SỬ DỤNG CHẤT BẢO QUẢN."
+              }
+            ]
+          }
+        ]
+      },
+      "recruitment": {
+        "id": "recruitment",
+        "des": [
+          {
+            "id": "intro",
+            "imgUrl":"https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/tuyendung_vn.jpg?alt=media&token=1eaa960f-9b0d-4892-b45e-3938ac26b7df",
+            "heading": "TUYỂN DỤNG",
+            "des": "Con người là giá trị cốt lõi cho sự phát triển bền vững. Chúng tôi luôn cố gắng tạo ra môi trường làm việc tốt nhất cho đội ngũ nhân viên của mình và không ngừng tìm kiếm những con người phù hợp nhất để tham gia vào đội ngũ của chúng tôi."
+          }
+        ]
+      },
+      "product": {
+        "id": "product",
+        "des": [
+          {
+            "id": "intro",
+            "heading": "SẢN PHẨM",
+            "des": "Cá tra của Việt Nam không chỉ được biết đến như một nguồn thức ăn giàu chất lượng mà còn là nguyên liệu chính cho ngành công nghiệp chế biến thực phẩm chức năng và sắc đẹp. Dựa trên những nhu cầu mang xu hướng toàn cầu, Việt Hồng tự hào cung cấp các sản phẩm cá tra với chỉ số chất lượng cao nhất, bao gồm cá tra phi lê thịt trắng, phi lê thịt đỏ, nguyên con bỏ đầu, cắt khúc, nguyên con bỏ nội tạng, xẻ bướm và phi lê tẩm bột. Chúng tôi cam kết đem lại các sản phẩm có nguồn gốc tự nhiên, an toàn vệ sinh, bền vững trong nuôi trồng và sản xuất."
+          }
+        ]
+      },
+      "mission": {
+        "id": "mission",
+        "heading": "Sứ mệnh – Tầm nhìn",
+        "mission": {
+          "heading": "TẦM NHÌN",
+          "brief":[
+            "Việt Hồng không ngừng học hỏi, sáng tạo, áp dụng và phát huy những kiến thức cũng như kinh nghiệm đã có từ thời cha ông truyền lại trong toàn bộ chuỗi chăn nuôi cá tra, từ khâu con giống để nuôi trồng, chăm sóc, thức ăn đến khâu sản xuất, chế biến và bảo quản với sứ mệnh mang đến cho người tiêu dùng những sản phẩm sạch và dinh dưỡng, không chỉ trong bàn ăn, bữa ăn của gia đình Việt mà còn toàn thế giới."
+          ]
+        },
+        "vision": {
+          "heading": "SỨ MỆNH",
+          "brief":[
+            "Thông qua việc sở hữu quy trình khép kín trong nuôi trồng thuỷ hải sản, từ khâu con giống đến thức ăn, chế biến và bảo quản. Việt Hồng đặt mục tiêu trở thành nhà xuất khẩu cá tra uy tín, đi đầu trong chất lượng, vận chuyển, cũng như chăm sóc khách hàng với mong muốn người tiêu dùng sẽ nhận được sản phẩm tốt nhất, chất lượng nhất."
+          ]
+        },
+        "imgUrl": "assets/img/vision.jpg"
+      },
+      "corevalue": {
+        "id": "corevalue",
+        "heading": "Giá trị cốt lõi",
+        "brief": "Tiêu chí và giá trị cốt lõi của Việt Hồng được thể hiện rõ, chính xác thông qua logo và slogan của tập đoàn mà bất kì người tiêu dùng nào cũng nhìn thấy và cảm nhận: sự tin cậy",
+        "des": [
+          {
+            "heading": "Chất lượng",
+            "des": "'Uy tín, chất lượng là nền tảng cốt lõi tạo nên thương hiệu', Việt Hồng cam kết mỗi sản phẩm đến tay người tiêu dùng đều được kiểm soát chặt chẽ trong quy trình khép kín, đảm bảo đáp ứng đủ các tiêu chuẩn nghiêm ngặt của Châu Âu."
+          },
+          {
+            "heading": "Đổi mới và sáng tạo",
+            "des": "Việt Hồng luôn luôn thử thách và cố gắng vượt qua các giới hạn bằng việc không ngừng tiến bộ, kết hợp kinh nghiệm truyền thống và công nghệ. Việt Hồng luôn tiên phong trong công cuộc cách mạng của ngành thủy hải sản Việt Nam"
+          },
+          {
+            "heading": "Tận tâm",
+            "des": "Việt Hồng tự hào về việc được hợp tác với một đội ngũ công nhân viên có bề dày kinh nghiệm trong ngành nuôi trồng thủy hải sản. Các khâu từ nuôi trồng đến sản xuất chế biến đều được thực hiện với sự tận tâm, chân thành, nhiệt huyết và trách nhiệm trong công việc của mỗi nhân viên. Tại Việt Hồng sự gắn kết, yêu thương, thống nhất cùng hướng đến những giá trị tốt nhất cho tất cả công nhân viên đang công tác tại công ty và Quý khách hàng."
+          },
+          {
+            "heading": "Trách nhiệm",
+            "des": "Việt Hồng luôn luôn đặt trách nhiệm lên hàng đầu, song song với những nỗ lực phát triển không ngừng của công ty, cũng như ngành thủy hải sản Việt Nam. Công ty cam kết sự phát triển của công ty luôn đi kèm trách nhiệm về môi trường, lợi ích xã hội, và trên hết là An toàn vệ sinh thực phẩm đến cho khách hàng."
+          }
+        ]
+      },
+      "market": {
+        "id": "market",
+        "heading": "Thị trường",
+        "brief": "Việt Hồng tự hào là một trong những doanh nghiệp xuất khẩu ra thị trường Châu Âu và sắp tới là toàn thế giới. Với cam kết về tiêu chuẩn chất lượng, an toàn vệ sinh thực phẩm, nuôi trồng sạch, chế biến với quy trình, công nghệ hiện đại và đạt đủ các tiêu chuẩn khắt khe nhất của Việt Nam và Châu Âu. Với tầm nhìn thị trường chiến lược mới. Từ năm 2020, Việt Hồng sẽ tập trung vào các thị trường rộng và tiềm năng mới như: các nước Trung Đông, Nam Mỹ và Trung Quốc. Ngoài ra Việt Hồng sẽ chuẩn bị lại nguồn lực để tái lập lại tại thị trường Mỹ.",
+        "imgUrl": "assets/img/image-1.jpg"
+      },
+      "aquacutule": {
+        "id": "aquacutule",
+        "des": [
+          {
+            "id": "intro",
+            "heading": "QUY TRÌNH SẢN XUẤT",
+            "des": "Việt Hồng là doanh nghiệp xuất khẩu cá tra uy tín tại Việt Nam. Công ty tập trung chủ lực vào nuôi trồng, chế biến và xuất khẩu cá tra theo quy trình khép kín. Chúng tôi tự hào đem lại nguồn sản phẩm chất lượng cao và an toàn thực phẩm theo tiêu chuẩn của Châu Âu."
+          },
+          {
+            "id": "",
+            "heading": "",
+            "des": [
+              {
+                "heading": "Vùng nuôi",
+                "imgUrl": [
+                  "assets/img/farming.jpg"
+                ],
+                "des": [
+                  {
+                    "des": "Vị trí trang trại là một trong những yếu tố quan trọng của trang trại. Các trang trại của Việt Hồng tuân thủ các tiêu chuẩn khắt khe nhất thế giới trong lĩnh vực nuôi trồng thủy sản, từ vị trí xây dựng, nguồn nước, chất nước, năng lượng, giao thông, nguồn cung cấp ấu trùng đến thiết kế xây dựng như việc xây dựng trang trại thích hợp với con giống, đầu tư các trang thiết bị phù hợp với công suất của trang trại."
+                  },
+                  {
+                    "des": "Việt Hồng sở hữu vùng nuôi với diện tích lên đến 50 hec-ta, tọa lạc tại Hồng Ngự - Đồng Tháp, nơi được mệnh danh là thủ phủ cá tra của cả nước. Nơi đây có vị trí địa lý thuận lợi cho việc nuôi trồng tập trung, thời tiết, giao thông thuận lợi cho việc vận chuyển đường bộ và đường thủy."
+                  },
+                  {
+                    "des": "Trang trại của Việt Hồng có khả năng cung cấp đến 200 tấn nguyên liệu/ ngày phục vụ cho việc sản xuất của nhà máy."
+                  }
+                ]
+              },
+              {
+                "heading": "Con Giống",
+                "imgUrl": [
+                  "assets/img/breedingstock.jpg"
+                ],
+                "des": [
+                  {
+                    "des": "Con giống là chìa khóa hiệu quả của nuôi trồng. Đây là khâu đầu tiên trong chuỗi giá trị của ngành thủy hải sản, nên việc chọn con giống sẽ ảnh hưởng đến tất cả các khâu còn lại của ngành sản xuất."
+                  },
+                  {
+                    "des": "Con giống được kiểm soát chặt chẽ sẽ cho chất lượng vật nuôi tốt, ít bệnh, dẫn đến việc năng suất nuôi trồng cũng như chất lượng sản phẩm sẽ tăng. Kiểm soát con giống tốt cũng làm giảm nguy cơ lây lan dịch bệnh cho các hộ nuôi trồng khác, làm tăng giá trị kinh tế cho các hộ ngư dân cũng như đóng góp cho xã hội."
+                  },
+                  {
+                    "des": "Việc tự sản xuất con giống tại Việt Hồng làm tăng khả năng kiểm soát chất lượng, cũng như dịch bệnh của con giống lên tối đa, giúp cho việc bệnh của con giống và chất lượng được đảm bảo ngay từ khâu đầu tiên của việc nuôi trồng."
+                  }
+                ]
+              },
+              {
+                "heading": "Thức Ăn",
+                "imgUrl": [
+                  "assets/img/Feed.jpg"
+                ],
+                "des": [
+                  {
+                    "des": "Song song với con giống thì thức ăn là một trong những bước cơ bản và quan trọng nhất trong chăn nuôi. Thức ăn là sản phẩm cung cấp dinh dưỡng cũng như các thành phần có lợi cho sự phát triển của động vật thủy sản."
+                  },
+                  {
+                    "des": "Thức ăn được bổ sung vào vật nuôi ở dạng tươi sống hoặc đã qua chế biến và bảo quản. Các loại thức ăn này bao gồm thức ăn dinh dưỡng và thức ăn chức năng ở dạng: Nguyên liệu, thức ăn đơn, thức ăn hỗn hợp hoàn chỉnh, thức ăn đậm đặc, thức ăn bổ sung, phụ gia bổ sung và các sản phẩm bổ sung vào môi trường nuôi. Khi bổ sung vào thủy sản được cải thiện và tăng hiệu quả nuôi trồng hơn."
+                  },
+                  {
+                    "des": "Mối nguy gây mất an toàn thực phẩm là điều kiện sản xuất không phù hợp hoặc trong sản phẩm có chứa các tác nhân vật lý, hóa học hoặc sinh học có khả năng gây hại đến sức khỏe và tính mạng của thủy sản lẫn người sử dụng."
+                  },
+                  {
+                    "des": "Bằng việc tự sản xuất thức ăn chăn nuôi, Việt Hồng đảm bảo tạo ra nguồn thức ăn đầy đủ dinh dưỡng thích hợp nhất với từng loại con giống được nuôi. Chất lượng nguồn thức ăn được đảm bảo nhất và thích hợp nhất với từng loại con giống riêng biệt. Việc kiểm soát chất lượng chất lượng chặt chẽ giúp vật nuôi tại trang trại của Việt Hồng luôn đảm bảo sức khỏe và điều kiện phát triển được tối ưu nhất."
+                  }
+                ]
+              },
+              {
+                "heading": "Quản lý ao",
+                "imgUrl": [
+                  "assets/img/Pond.jpg"
+                ],
+                "des": [
+                  {
+                    "des": "Ao nuôi của Việt Hồng đạt quy chuẩn kỹ thuật quốc gia về cơ sở nuôi cá tra trong ao. Ao nuôi được kiểm soát chặt chẽ từ khâu chuẩn bị trước khi thả giống từ đáy ao, dốc nghiêng, độ thấm, đảm bảo không có mùn bã hữu cơ. Tiếp đến các khâu chọn giống - thả giống - nuôi thương phẩm - thu hoạch. Công tác kiểm soát môi trường ao nuôi như hàm lượng vi sinh, kháng sinh luôn được tiến hành định kỳ thường xuyên. Mỗi ao bố trí 2 công nhân viên phụ trách trực tiếp giám sát hằng ngày các thông số môi trường ao đánh giá sức khỏe của con giống, nhằm phát hiện kịp thời các biểu hiện bất thường môi trường ao nuôi và vật nuôi; từ đó đưa ra biện pháp xử lý kịp thời."
+                  }
+                ]
+              },
+              {
+                "heading": "Nhà Máy",
+                "imgUrl": [
+                  "assets/img/factory.jpg"
+                ],
+                "des": [
+                  {
+                    "des": "Nhà máy Việt Hồng được đặt tại Hồng Ngự - Đồng Tháp, thủ phủ cá tra của Việt Nam và đạt đủ các tiêu chuẩn trong nước, Châu Âu và thế giới. Với trang thiết bị hiện đại, vị trí địa lý thuận lợi, công nhân viên lành nghề dẫn đến chất lượng sản phẩm của Việt Hồng luôn đạt được chất lượng cao nhất. Việt Hồng luôn chú trọng đến việc kiểm soát chất lượng ATVSTP ( an toàn vệ sinh thực phẩm) từ nguyên liệu đầu vào đến công đoạn thành phẩm xuất ra thị trường. Với phương châm  ‘Tạo uy tín với khách hàng bằng chất lượng sản phẩm’. Việt Hồng luôn cố gắng cải tiến và phát triển những giá trị cốt lõi nhằm nâng cao chất lượng sản phẩm để trở thành một thương hiệu uy tín trong nước và quốc tế."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "processing": {
+        "id": "processing",
+        "heading": "Quy Trình Chế Biến",
+        "des": [
+          {
+            "id": "1",
+            "stage": "Tiếp nhận nguyên liệu",
+            "description": [
+              {
+                "des": "Nguyên liệu trước khi thu mua đã được bộ phận thu mua kiểm soát các chỉ tiêu kháng sinh, dư lượng các chất độc hại, giấy cam kết về việc kiểm soát chất lượng cá trong quá trình nuôi không sử dụng kháng sinh cấm, kháng sinh hạn chế/thức ăn được kiểm soát, nguyên liệu được thu mua và vận chuyển về nhà máy bằng ghe đục."
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "stage": "Cắt hầu",
+            "description": [
+              {
+                "des": "Cá sau khi được tiếp nhận, chuyển đến công đoạn cắt hầu qua máng nạp liệu. Sau đó công nhân khâu cắt hầu sẽ dùng dao chuyên dụng cắt vào phần yết hầu cá, mục đích làm cho cá chết, loại hết máu trong cơ thể cá và làm cho thịt cá sau fillet được trắng có giá trị cảm quan cao."
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "stage": "Rửa 1",
+            "description": [
+              {
+                "des": "Sau khi cắt hầu, cá được chuyển sang công đoạn rửa 1 để rửa sạch máu, nhớt và các tạp chất bám trên bề mặt cá. Cá được rửa bằng máy rửa tự động. Thời gian ngâm cá từ 7-10 phút."
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "stage": "Fillet",
+            "description": [
+              {
+                "des": "Cá sau khi qua máy rửa 1 sẽ được băng tải chuyển đến khâu fillet, công đoạn fillet với mục đích tách phần thịt cá ra khỏi phần đầu, xương cá và nội tạng."
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "stage": "Rửa 2",
+            "description": [
+              {
+                "des": "Cá sau khi qua khâu fillet được chuyển đến công đoạn rửa 2. Bán thành phẩm được rửa bằng thiết bị rửa tự động"
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "stage": "Lạng da",
+            "description": [
+              {
+                "des": "Sau khi rửa 2, bán thành phẩm được đưa qua máy lạng da nhằm để loại hết da, tạo điều kiện thuận lợi cho công đoạn sửa cá."
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "stage": "Chỉnh hình (sửa cá)",
+            "description": [
+              {
+                "des": "Sau công đoạn lạng da tiến hành chỉnh hình nhằm cắt bỏ thịt đỏ, mỡ, xương, da làm tăng giá trị cảm quan, đồng thời làm giảm bớt vi sinh vật trên miếng cá, giúp miếng cá có hình dạng nhất định."
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "stage": "Kiểm sơ bộ",
+            "description": [
+              {
+                "des": "Mỗi rổ cá sau khi chỉnh hình xong sẽ được chuyển lên công đoạn kiểm sơ bộ. Tại đây người công nhân kiểm sơ bộ kiểm tra lại từng miếng cá fillet xem đã sạch hết mỡ lưng, mỡ eo, da đầu trắng, da đầu đen, miếng cá có bị sần hay không. Nếu đạt yêu cầu thì rổ cá được cân để xác định năng suất cho từng công nhân chỉnh hình. Sau đó bán thành phẩm được chuyển qua công đoạn soi ký sinh trùng"
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "stage": "Soi ký sinh trùng ",
+            "description": [
+              {
+                "des": "Sau khi kiểm sơ bộ xong, bán thành phẩm được chuyển sang công đoạn soi ký sinh trùng. Công nhân công đoạn soi ký sinh trùng sẽ đặt từng miếng cá fillet lên bàn soi, quan sát bằng mắt và loại bỏ những miếng fillet có ký sinh trùng, đốm đen, đốm đỏ."
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "stage": "Rửa 3",
+            "description": [
+              {
+                "des": "Bán thành phẩm sau khi soi ký sinh trùng được chuyển sang công đoạn rửa 3. bán thành phẩm được đưa vào máy rửa để loại bỏ các tạp chất, làm trôi phần mỡ váng và vụn mỡ còn bám trên miếng cá "
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "stage": "Pha-Xử lý phụ gia",
+            "description": [
+              {
+                "des": "Bán thành phẩm  sau khi rửa  xong, để ráo và cho vào máy quay chuyên dùng để quay  phụ gia cho miếng cá bóng đẹp đảm bảo chất lượng của miếng cá trong quá trình cấp đông và bảo quản."
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "stage": "Phân cỡ Phân màu",
+            "description": [
+              {
+                "des": "Bán thành phẩm sau khi xử lý được chuyển qua công đoạn phân cỡ, phân màu, nhằm đáp ứng yêu của hợp đồng. Tại công đoạn này bán thành phẩm được phân cỡ thành các size (60-120, 120-170, 170-220, 220-Up) và các loại màu cơ bản (trắng, trắng hồng, hồng, hồng nhạt, vàng, vàng nhạt ). Tùy theo yêu cầu của khách hàng mà phân thành từng loại khác nhau."
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "stage": "Cân",
+            "description": [
+              {
+                "des": "Công đoạn cân để xác định khối lượng cho mỗi block tùy theo yêu cầu của từng khách hàng. Sau khi cân xong chuyển bán thành phẩm qua công đoạn xếp khuôn."
+              }
+            ]
+          },
+          {
+            "id": "14",
+            "stage": "Xếp khuôn",
+            "description": [
+              {
+                "des": "Sau khi cân xong bán thành phẩm  được xếp lên khuôn để phục vụ công tác chờ đông, cấp đông. Định dạng block làm tăng vẻ mỹ quan cho sản phẩm."
+              }
+            ]
+          },
+          {
+            "id": "15",
+            "stage": "Chờ đông",
+            "description": [
+              {
+                "des": "Sau khi xếp khuôn hoặc phân loại xong nếu chưa đủ số lượng để cấp đông hoặc thiết bị cấp đông không cấp đông kịp thì đưa vào công đoạn chờ đông."
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "stage": "Cấp đông",
+            "description": [
+              {
+                "des": "Sau khi có đủ bán thành phẩm cho công tác cấp đông sẽ tiến hành cấp đông:"
+              }
+            ]
+          },
+          {
+            "id": "17",
+            "stage": "Tách khuôn (Block)",
+            "description": [
+              {
+                "des": "Đối với sản phẩm đông Block, sau khi cấp đông được chuyển qua khâu tách khuôn. sau đó được chuyển qua công đoạn dò kim loại và bao gói."
+              }
+            ]
+          },
+          {
+            "id": "18",
+            "stage": "Mạ băng",
+            "description": [
+              {
+                "des": "Đối với sản phẩm đông IQF sau khi cấp đông sản phẩm được mạ băng."
+              }
+            ]
+          },
+          {
+            "id": "19",
+            "stage": "Tái đông",
+            "description": [
+              {
+                "des": "Quá trình mạ băng sản phẩm có thu nhiệt nên sản phẩm phải được tái đông, tái đông được thực hiện bằng thiết bị tái đông để đảm bảo nhiệt độ trung tâm của sản phẩm."
+              }
+            ]
+          },
+          {
+            "id": "20",
+            "stage": "Cân",
+            "description": [
+              {
+                "des": "Sản phẩm trước khi bao gói được cân để xác định trọng lượng. Tùy theo từng cỡ cá, đơn đặt hàng mà sản phẩm có trọng lượng cá khác nhau."
+              }
+            ]
+          },
+          {
+            "id": "21",
+            "stage": "Dò kim loại",
+            "description": [
+              {
+                "des": "Sản phẩm sau khi cân đạt yêu cầu được thực hiện cho vào PE/PA sau đó chuyển qua công đoạn dò kim loại."
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "stage": "Bao gói",
+            "description": [
+              {
+                "des": "Đối với sản phẩm đông Block: Cứ 2 block được bao gói trong một carton hoặc trong một số trường hợp sẽ theo yêu cầu cụ thể của từng khách hàng."
+              }
+            ]
+          },
+          {
+            "id": "23",
+            "stage": "Bảo quản",
+            "description": [
+              {
+                "des": "Sản phẩm sau khi bao gói xong được đưa vào kho bảo quản."
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "products": {
+      "1174268122548": {
+        "date": "2018-04-02",
+        "description": "Không da, không xương, Thịt trắng, Bỏ bụng, Bỏ mỡ",
+        "id": 1174268122548,
+        "imageRefs": [
+          "assets/img/pangasius-welltrimmed.jpg"
+        ],
+        "imageURLs": [
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/pangasius-welltrimmed.jpg?alt=media&token=3d5ed45a-6b39-4caa-a404-e7d02e740560"
+        ],
+        "name": "Cá Tra Phi Lê Thịt Trắng",
+        "specification": "Không da, không xương, Thịt trắng, Bỏ bụng, Bỏ mỡ",
+        "size": "60/90, 90/120, 120/170, 170/220, 220/300, 220UP, 300UP, 500UP, 800UP (GR)",
+        "packing": "IQF, 10 kg bag, 5kg bag, 1kg bag or meet the customers requirements. Interleaved, 5kg x 2/carton or industrial block 7.5kg x 2 /carton % Net weight and glaze according to customers requirement",
+        "code": "UT",
+        "widget": true
+      },
+      "1460918804231": {
+        "date": "2018-04-02",
+        "description": "Không da, không xương, có thịt đỏ, có bụng, có mỡ",
+        "id": 1460918804231,
+        "imageRefs": [
+          "assets/img/catrathitdo.jpg"
+        ],
+        "imageURLs": [
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/catrathitdo.jpg?alt=media&token=f91fa0e8-8c56-4a41-bdcf-92d39db33096"
+        ],
+        "name": "Cá Tra Phi Lê Thịt Đỏ",
+        "specification": "Không da, không xương, có thịt đỏ, có bụng, có mỡ",
+        "size": "60/90, 90/120, 120/170, 170/220, 220/300, 220UP, 300UP, 500UP, 800UP (GR)",
+        "packing": "IQF, 10 kg bag, 5kg bag, 1kg bag or meet the customers requirements. Interleaved, 5kg x 2/carton or industrial block 7.5kg x 2 /carton % Net weight and glaze according to customers requirement",
+        "code": "UT",
+        "widget": true
+      },
+      "174074709536": {
+        "date": "2018-04-02",
+        "description": "Toàn bộ ruột cá, Da trên, Đầu trên, Đuôi",
+        "id": 174074709536,
+        "imageRefs": [
+          "assets/img/catranguyencon.jpg"
+        ],
+        "imageURLs": [
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/catranguyencon.jpg?alt=media&token=9adef846-7a71-4c25-a420-0caa0754d623"
+        ],
+        "name": "Cá tra nguyên con bỏ nội tạng",
+        "specification": "Toàn bộ ruột cá, Da trên, Đầu trên, Đuôi",
+        "size": "60/90, 90/120, 120/170, 170/220, 220/300, 220UP, 300UP, 500UP, 800UP (GR)",
+        "packing": "IQF, 10 kg bag, 5kg bag, 1kg bag or meet the customers requirements. Interleaved, 5kg x 2/carton or industrial block 7.5kg x 2 /carton % Net weight and glaze according to customers requirement",
+        "code": "UT",
+        "widget": true
+      },
+      "262082575518": {
+        "date": "2018-04-02",
+        "description": "Cá nguyên con, Da cắt ruột, Không đầu đuôi",
+        "id": 262082575518,
+        "imageRefs": [
+          "assets/img/nguyenconbodau.jpg"
+        ],
+        "imageURLs": [
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/nguyenconbodau.jpg?alt=media&token=5d126fb5-4e76-4fa4-a407-a48f410a823b"
+        ],
+        "name": "Cá tra nguyên con bỏ đầu",
+        "specification": "Cá nguyên con, Da cắt ruột, Không đầu đuôi",
+        "size": "60/90, 90/120, 120/170, 170/220, 220/300, 220UP, 300UP, 500UP, 800UP (GR)",
+        "packing": "IQF, 10 kg bag, 5kg bag, 1kg bag or meet the customers requirements. Interleaved, 5kg x 2/carton or industrial block 7.5kg x 2 /carton % Net weight and glaze according to customers requirement",
+        "code": "UT",
+        "widget": true
+      },
+      "287006516588": {
+        "date": "2018-04-02",
+        "description": "còn da, còn xương, làm sạch, bỏ nội tạng, cắt khoanh.",
+        "id": 287006516588,
+        "imageRefs": [
+          "assets/img/catracatkhuc.jpg"
+        ],
+        "imageURLs": [
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/catracatkhuc.jpg?alt=media&token=78f4f975-acee-4879-9d51-5f8d12f8f7c9"
+        ],
+        "name": "Cá tra cắt khúc",
+        "specification": "còn da, còn xương, làm sạch, bỏ nội tạng, cắt khoanh.",
+        "size": "60/90, 90/120, 120/170, 170/220, 220/300, 220UP, 300UP, 500UP, 800UP (GR)",
+        "packing": "IQF, 10 kg bag, 5kg bag, 1kg bag or meet the customers requirements. Interleaved, 5kg x 2/carton or industrial block 7.5kg x 2 /carton % Net weight and glaze according to customers requirement",
+        "code": "UT",
+        "widget": true
+      },
+      "342126594235": {
+        "date": "2018-04-02",
+        "description": "Da trên, xương, trên bụng, trên đầu, đuôi",
+        "id": 342126594235,
+        "imageRefs": [
+          "assets/img/catraxebuom.jpg"
+        ],
+        "imageURLs": [
+          "https://firebasestorage.googleapis.com/v0/b/viethongdb2.appspot.com/o/catraxebuom.jpg?alt=media&token=415ef46d-b437-43d6-9f53-15a267a182b5"
+        ],
+        "name": "Cá tra xẻ bướm",
+        "specification": "Da trên, xương, trên bụng, trên đầu, đuôi",
+        "size": "60/90, 90/120, 120/170, 170/220, 220/300, 220UP, 300UP, 500UP, 800UP (GR)",
+        "packing": "IQF, 10 kg bag, 5kg bag, 1kg bag or meet the customers requirements. Interleaved, 5kg x 2/carton or industrial block 7.5kg x 2 /carton % Net weight and glaze according to customers requirement",
+        "code": "UT",
+        "widget": true
+      }
+    },
+    "news": {
+      "290713": {
+        "id": 290713,
+        "date": "2018-04-02",
+        "title": "Lý do nên ăn cá tra thường xuyên",
+        "brief": "Cá tra dồi dào omega 3, DHA và EPA tốt cho trí não, giàu vitamin E chống oxy hóa. Cá tra Việt Nam là một trong những mặt hàng xuất khẩu được thế giới ưa chuộng. Chúng dồi dào omega 3, 6, 9; DHA và EPA; vitamin E tự nhiên... Vì vậy, bà nội trợ nên đưa loại đặc sản vùng sông nước Cửu Long này vào trong khẩu phần ăn mỗi ngày.",
+        "author": "Viet Hong",
+        "suggest": true,
+        "imageRefs": "assets/img/news/3.png",
+        "des": [
+          {
+            "heading": "Omega 3",
+            "des": [
+              "Theo Hiệp hội Tim mạch Mỹ, omega 3 giúp ngăn ngừa quá trình xơ cứng động mạch, tăng cường hoạt động trí nhớ. Vì vậy, thường xuyên ăn cá có thể tránh được nguy cơ mắc bệnh Alzheimer.",
+              "Tỷ lệ acid béo không no trong mỡ cá tra khá cao (trên 70%), không có cholesterol, nên tốt cho sức khỏe. Đó chính là lý do chị em phụ nữ ăn nhiều mỡ cá, nhưng lại không tăng cân.",
+              "Mỡ cá tra cũng phù hợp với người cao tuổi. Các chuyên gia khuyến cáo, nên ăn cá 2-3 bữa cá mỗi tuần để giúp cơ thể hấp thụ đủ các dưỡng chất cần thiết."  ]
+          },
+          {
+            "heading": "DHA và EPA",
+            "des": [
+              "DHA và EPA sinh ra từ omega 3. DHA trong cá tra giúp phát triển hoàn thiện chức năng nhìn của mắt và hệ thần kinh, giúp trẻ thông minh và sáng mắt.",
+              "EPA hình thành các acid béo không bão hòa prostaglandin trong máu, giữ cho tuần hoàn máu được thông thoáng. Ăn nhiều cá tra giúp phòng ngừa các bệnh về tim mạch do xơ vữa mạch máu.",
+              "Cá tra chứa omega 3, 6, 9, vitamin E và A giúp sáng mắt, giảm cholesterol trong máu, tốt cho tim mạch. DHA và EPA tự nhiên giúp phát triển não bộ."
+          ]
+          },
+          {
+            "heading": "Vitamin E",
+            "des": [
+              "Cá tra cũng chứa chất chống oxy hóa vitamin E, có tác dụng ngăn chặn lão hóa, chăm sóc làn da tươi trẻ của chị em phụ nữ. Thiếu vitamin E, da sẽ khô, nhăn nheo, tóc dễ gãy rụng.",
+              "Đối với phụ nữ mang thai, vitamin E góp phần giúp quá trình mang thai thuận lợi cho và thai nhi phát triển tốt hơn."
+            ]
+          }
+        ]
+      },
+      "290714": {
+        "id": 290714,
+        "date": "2018-04-02",
+        "title": "Thủ Phủ Cá Tra – Hồng Ngự - 16-12-2017",
+        "brief": "Ngày 16/12/2017, UBND TX.Hồng Ngự tổ chức khánh thành công trình biểu tượng cá tra Việt Nam. Được biết thị xã Hồng Ngự tỉnh Đồng Tháp được mệnh danh là thủ phủ con cá tra Việt Nam....",
+        "author": "Viet Hong",
+        "suggest": true,
+        "imageRefs": "assets/img/news/4.jpg",
+        "des": [
+          {
+            "heading": "",
+            "des": [
+              "Ngày 16/12/2017, UBND TX.Hồng Ngự tổ chức khánh thành công trình biểu tượng cá tra Việt Nam",
+              "Được biết thị xã Hồng Ngự tỉnh Đồng Tháp được mệnh danh là thủ phủ con cá tra Việt Nam. Nơi đây có bề dày truyền thống nuôi trồng loài thủy sản này chiếm 70% tổng sản lượng sản xuất cá tra thương mại. Trong đó, tổng sản lượng năm 2018 là 1,42 triệu tấn, riêng Hồng Ngự chiếm gần 1 triệu tấn"
+            ]
+          }
+        ]
+      },
+      "290715": {
+        "id": 290715,
+        "date": "2018-04-02",
+        "title": "Thành lập ở TP. Hồng Ngự thuộc tỉnh Đồng Tháp – 15-10-2020",
+        "brief": "Ngoài thế mạnh về sản xuất nông nghiệp và nuôi trồng thủy sản, thị xã Hồng Ngự còn là trung tâm đô thị lớn ở vùng biên giới, tập trung nhiều cơ sở sản xuất công nghiệp và dịch vụ phát triển'....",
+        "author": "Viet Hong",
+        "suggest": true,
+        "imageRefs": "assets/img/news/thanhlapthanhpho.png",
+        "des": [
+          {
+            "heading": "",
+            "des": [
+              "'Ngoài thế mạnh về sản xuất nông nghiệp và nuôi trồng thủy sản, thị xã Hồng Ngự còn là trung tâm đô thị lớn ở vùng biên giới, tập trung nhiều cơ sở sản xuất công nghiệp và dịch vụ phát triển'.",
+              "Những năm qua, nền kinh tế của thị xã có mức tăng trưởng ổn định, cơ cấu kinh tế chuyển biến tích cực; đời sống nhân dân từng bước được nâng cao, phúc lợi xã hội được chú trọng, tốc độ đô thị hóa nhanh, kết cấu hạ tầng kinh tế - xã hội được đầu tư nâng cấp đồng bộ theo hướng văn minh, hiện đại, thuận lợi cho việc thu hút đầu tư và làm động lực để phát triển kinh tế - xã hội cho thị xã nói riêng và tỉnh Đồng Tháp nói chung.",
+              "Thành phố Hồng Ngự giáp các huyện Hồng Ngự, Tam Nông, Tân Hồng và Vương quốc Campuchia.",
+              "Sau khi thành lập, thành phố Hồng Ngự có 7 đơn vị hành chính cấp xã, gồm 5 phường: An Bình A, An Bình B, An Lạc , An Lộc , An Thạnh và 2 xã: Bình Thạnh, Tân Hội.",
+              "Tỉnh Đồng Tháp có 12 đơn vị hành chính cấp huyện, gồm 9 huyện và 3 thành phố; 143 đơn vị hành chính cấp xã, gồm 115 xã, 19 phường và 9 thị trấn."
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

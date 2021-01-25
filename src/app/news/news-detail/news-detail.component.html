@@ -1,0 +1,126 @@
+<app-page-title title="{{title}}" [children]="[{title: title}]"></app-page-title>
+
+
+<div [ngClass]="{'loading' : newsLoading}">
+
+    <div *ngIf="news">
+        <div class="sidebar-page-container with-right-sidebar">
+            <div class="auto-container">
+                <div class="row">
+                    <!--Content Side-->
+                    <div class="content-side col-lg-8 col-md-12 col-sm-12">
+                        <div class="blog-single">
+                            <!-- News Block -->
+                            <div class="news-block-three">
+                                <div class="inner-box">
+                                    <h2>{{news.title}}</h2>
+                                    <div class="info-box clearfix">
+                                        <ul class="info-list clearfix">
+                                            <li>{{news.date}}</li>
+                                            <li>by <a href="#">{{news.author}}</a></li>
+                                        </ul>
+                                    </div>
+
+                                    <div class="image-box wow fadeIn">
+                                        <figure class="image"><img src="{{news.imageRefs}}" alt=""></figure>
+                                    </div>
+
+                                    <div class="lower-content">
+
+                                        <div class="text-box">
+                                            <p>{{news.brief}}</p>
+                                        </div>
+                                        <div class="text-box">
+                                            <div *ngIf="news.des">
+                                                <div *ngFor="let des of news.des">
+                                                    <div *ngIf="des.heading">
+                                                        <h4>{{des.heading}}</h4>
+                                                    </div>
+                                                    <div *ngFor="let des_ of des.des;">
+                                                        <p>{{des_}}</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!--Post Controls-->
+                            <!-- <div class="post-controls">
+                                <div class="inner clearfix">
+                                    <div class="prev-post">
+                                        <span class="title"><i class="fa fa-caret-left"></i>prev article</span>
+                                        <h5><a routerLink="/news/{{prevArticle.id}}/{{prevArticle.title}}" href="#"
+                                                style="text-decoration: none;">{{prevArticle.title}}</a></h5>
+                                    </div>
+
+                                    <div class="next-post">
+                                        <span class="title">Next article<i class="fa fa-caret-right"></i></span>
+                                        <h5><a routerLink="/news/{{nextArticle.id}}/{{nextArticle.title}}" href="#"
+                                                style="text-decoration: none;">{{nextArticle.title}}</a></h5>
+                                    </div>
+                                </div>
+                            </div> -->
+                        </div>
+                    </div>
+
+                    <!--Sidebar Side-->
+                    <div class="sidebar-side col-lg-4 col-md-12 col-sm-12 col-xs-12">
+                        <aside class="sidebar">
+
+                            <!-- Post Widget -->
+                            <div class="sidebar-widget post-widget">
+                                <div class="sidebar-title">
+                                    <h5>Recent Posts</h5>
+                                </div>
+                                <div class="widget-content">
+
+                                    <div *ngFor="let post of recentPosts">
+                                        <article class="post">
+                                            <div class="thumb"><a href=""><img src="{{post.imageRefs}}" alt=""></a>
+                                            </div>
+                                            <div class="date">{{post.date}}</div>
+                                            <h4><a routerLink="/news/{{post.id}}/{{post.title}}" href=""
+                                                    style="text-decoration: none;">{{post.title}}</a></h4>
+                                        </article>
+
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <!-- Support Widget -->
+                            <div class="sidebar-widget support-widget">
+                                <div class="widget-content">
+                                    <span class="icon flaticon-telephone-1"></span>
+                                    <div class="text">Got any Questions? <br> call us Today!</div>
+                                    <div class="number">
+                                        <a href="tel:0907484813" style="text-decoration: none; font-size: 20px;">
+                                            <strong>(+84) 907-484-813</strong>
+                                        </a>
+                                    </div>
+                                    <div class="email"><a
+                                            href="mailto:info.viethongseafood@gmail.com">info.viethongseafood@gmail.com</a></div>
+                                </div>
+                            </div>
+
+                            <!-- Message Widget -->
+                            <div class="sidebar-widget message-widget">
+                                <div class="widget-content"
+                                    style="background-image: url(images/resource/message-bg.jpg);">
+                                    <h4>Professional Experts Team At Help</h4>
+                                    <a routerLink="/contact" href="" class="read-more" style="text-decoration: none;">{{btn_title}}<i
+                                            class="fa fa-caret-right"></i></a>
+                                </div>
+                            </div>
+                        </aside>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>

@@ -1,0 +1,43 @@
+
+<app-page-title title="{{title}}" [children]="[{title: title}]"></app-page-title>
+
+<section class="news-section-two">
+    <div class="auto-container">
+        <div class="sec-title text-center">
+            <h2 style="text-transform: uppercase;">{{news_title}}</h2>
+        </div>
+
+
+        <div *ngFor="let news_ of news">
+            <div class="news-block-two wow fadeInUp">
+                <div class="row">
+
+                    <div class="content-column col-lg-6 col-md-12 col-sm-12 ">
+                        <div class="inner-column">
+                            <ul class="post-info">
+                                <li>{{news_.date}}</li>
+                                <li><a href="#" style="text-decoration: none">{{news_.author}}</a></li>
+                            </ul>
+                            <h4><a routerLink="/news/{{news_.id}}/{{news_.title}}" href="" style="text-decoration: none"> {{news_.title}}</a></h4>
+                            <div class="text">
+                                {{news_.brief}}
+                            </div>
+                            <div class="link-box">
+                                <a routerLink="/news/{{news_.id}}/{{news_.title}}"  href="" style="text-decoration: none">{{btn_title}}<i class="fa fa-caret-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="image-column col-lg-6 col-md-12 col-sm-12">
+                        <div class="image-box">
+                            <figure class="image"><a routerLink="/news/{{news_.id}}/{{news_.title}}" href="" style="text-decoration: none"><img
+                                        src="{{news_.imageRefs}}" alt=""></a></figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section>

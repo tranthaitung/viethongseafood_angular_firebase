@@ -1,0 +1,139 @@
+<app-page-title title="{{title}}" [children]="[{title: title}]"></app-page-title>
+
+<div *ngIf="aquacutule">
+
+    <section class="service-page-section">
+        <div class="auto-container">
+            <!-- Service Block Five -->
+            <div class="service-block-five" *ngFor="let aqua of aquacutule">
+                <div class="row">
+                    <!-- Image Column -->
+                    <div class="image-column col-lg-6 col-md-12 col-sm-12 wow fadeInRight">
+                        <div class="inner-column" *ngFor="let img of aqua.imgUrl;">
+                            <div class="image-box">
+                                <figure class="image"><img src="{{img}}" alt=""></figure>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Content Column -->
+                    <div class="content-column col-lg-6 col-md-12 col-sm-12 wow fadeInLeft">
+                        <div class="inner-column">
+                            <div class="title-box">
+                                <h3><a style="text-decoration: none; text-align: center;">{{aqua.heading}}</a>
+                                </h3>
+                            </div>
+                            <div *ngFor="let des of aqua.des;">
+                                <div class="text" style="text-align: justify;">{{des.des}}</div>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+</div>
+
+<div *ngIf="processing">
+    <!-- Features Section Two -->
+    <section class="features-section-two style-two">
+        <div class="auto-container">
+            <div class="sec-title text-center">
+                <h2 style="color: #ffff">{{processing.heading}}</h2>
+            </div>
+            <div class="row">
+
+                <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp"
+                    *ngFor="let item of processing.des; let i = index;">
+                    <div class="inner-box">
+                        <div class="icon-box"><span class="icon">{{i + 1}}</span></div>
+                        <h4><a>{{item.stage}}</a></h4>
+
+                        <!-- <div class="text-center" *ngFor="let specs of item.specifications;" style="color: white;">
+                            <strong>{{specs.spec}}</strong>
+                        </div> -->
+
+                        <div class="text" *ngFor="let des of item.description;"
+                            style="color: white; text-align: justify;">
+                            {{des.des}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Features Section Two -->
+</div>
+
+
+<section class="service-page-section" style="background-color: #05162d; opacity: 0.8;"> 
+    <div class="auto-container">
+        <!-- Service Block Five -->
+        <div class="service-block-five">
+            <div class="swiper-container gallery-top">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="{{processingImgUrl[0]}}" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="{{processingImgUrl[1]}}" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="{{processingImgUrl[2]}}" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="{{processingImgUrl[3]}}" class="d-block w-100" alt="...">
+                    </div>
+
+                </div>
+                <!-- Add Arrows -->
+                <div class="swiper-button-next swiper-button-white"></div>
+                <div class="swiper-button-prev swiper-button-white"></div>
+            </div>
+            <div class="swiper-container gallery-thumbs">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="{{processingImgUrl[0]}}" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="{{processingImgUrl[1]}}" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="{{processingImgUrl[2]}}" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="{{processingImgUrl[3]}}" class="d-block w-100" alt="...">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="services-section-four">
+    <div class="">
+        <div class="row">
+
+            <div class="title-box col-lg-12 col-md-12 col-sm-12 wow fadeInUp" data-wow-delay="0ms">
+                <div class="inner-box" style="min-height: 200px;">
+                    <div class="row">
+                        <div class="col-lg-4 col-md-12 col-sm-12">
+                            <div class="sec-title light" *ngIf="certificated">
+                                <h2 class="heading">{{certificated.heading}}</h2>
+                                <div class="text">{{certificated.des}}</div>
+                            </div>
+                        </div>
+                        <div class="col-lg-8 col-md-12 col-sm-12">
+                            <app-certificated></app-certificated>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

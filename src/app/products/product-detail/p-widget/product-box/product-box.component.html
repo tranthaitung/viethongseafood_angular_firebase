@@ -1,0 +1,28 @@
+<div class="slide-box">
+    <div class="product-box">
+        <div class="inner-box border rounded" style="padding: 10px;">
+            <div class="image-box">
+                <figure class="image">
+                    <a routerLink="/products/{{ product.id }}" href="#"
+                        style="text-decoration: none">
+                        <img src="{{product.imageRefs}}" alt="">
+                    </a>
+                </figure>
+                <div class="caption-box">
+                    <h4> {{product.name}}</h4>
+                </div>
+                <div class="overlay-box">
+                    <div class="inner">
+                        <h4><a routerLink="/products/{{ product.id }}" href="#"
+                                style="text-decoration: none">
+                                {{product.name }}</a></h4>
+                        <div class="link-box"><a routerLink="/products/{{ product.id }}"
+                                href="#"
+                                style="text-decoration: none; width: 100px; height: 50px; padding: 10px 2px">{{btn_title}}<i
+                                    class="fa fa-caret-right"></i></a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

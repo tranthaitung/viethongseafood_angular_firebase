@@ -1,0 +1,99 @@
+<!-- Navbar-->
+<!-- Remove "navbar-sticky" class to make navigation bar scrollable with the page.-->
+<header class="navbar navbar-sticky" style="padding: 0px;">
+
+  <!-- <app-search (onHideSearch)="showSearch = false" [showSearch]="showSearch" class="site-search-wrapper"></app-search> -->
+
+  <div class="site-branding">
+    <div class="inner">
+      <!-- Off-Canvas Toggle (#shop-categories)-->
+      <!-- <a class="offcanvas-toggle cats-toggle" href="" data-toggle="offcanvas"></a> -->
+      <!-- Off-Canvas Toggle (#mobile-menu)-->
+      <a class="offcanvas-toggle" href="" (click)="onMenuToggle($event)"></a>
+      <img src="assets/img/navbar-logo.png" style="padding-top: 20px;" alt="Home" routerLink="/home">
+    </div>
+  </div>
+
+  <app-navigation-main></app-navigation-main>
+
+
+
+  <!-- Toolbar-->
+  <div class="toolbar">
+    <div class="inner">
+      <div class="tools">
+        <!-- <div class="search">
+            <i (click)="showSearch = true" class="icon-search"></i>
+          </div> -->
+
+        <!-- <div class="dropdown">
+            <button class="btn btn-secondary  dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="text-transform: uppercase; ">{{navbar.id}}</button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <a class="dropdown-item"  (click)="setLanguage('en')" href="">English</a>
+              <a class="dropdown-item" (click)="setLanguage('vn')" href="">Vietnamese</a>
+            </div>
+          </div> -->
+
+        <div class="header-upper" style="padding-right: 40px; padding-bottom: 10px;">
+          <div class="inner-container">
+            <div class="">
+              <div class="nav-outer clearfix">
+                <nav class="main-menu">
+                  <div class="navbar-collapse show collapse clearfix">
+                    <ul class="navigation clearfix">
+
+                      <li class="dropdown"><a style="text-decoration: none; text-transform: uppercase;">{{navbar.id}} <i
+                            class="fa fa-caret-down"></i></a>
+                        <ul>
+                          <li><a  (click)="setLanguage('en')"  style="text-decoration: none;">English</a>
+                          </li>
+                          <li><a (click)="setLanguage('vn')" style="text-decoration: none;">Vietnamese</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+                </nav>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <!-- <div class="account">
+            <a *ngIf="!user; else whenLoggedIn" routerLink="/register-login"></a>
+  
+            <ng-template #whenLoggedIn>
+              <a routerLink="/account/profile"></a>
+            </ng-template>
+  
+            <i class="icon-head"></i>
+            <ul *ngIf="user" class="toolbar-dropdown">
+              <li class="sub-menu-user">
+                <div class="user-info">
+                  <h6 class="user-name">{{ user.email }}
+                    <span *ngIf="user.roles.admin"> (Admin)</span>
+                  </h6>
+                </div>
+              </li>
+              <li>
+                <a routerLink="/account/profile" href="">My Profile</a>
+              </li>
+              <li>
+                <a routerLink="/account/orders" href="">Orders List</a>
+              </li>
+              <li class="sub-menu-separator"></li>
+              <li>
+                <a href="" (click)="onLogOut($event)">
+                  <i class="icon-unlock"></i>Logout</a>
+              </li>
+            </ul>
+          </div> -->
+
+        <!-- <app-toolbar-cart></app-toolbar-cart> -->
+
+      </div>
+    </div>
+  </div>
+</header>

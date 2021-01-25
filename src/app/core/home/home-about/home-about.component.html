@@ -1,0 +1,194 @@
+<app-page-title title={{title}} [children]="[{title: title}]"></app-page-title>
+
+
+<!-- <section class="about-section-two wow fadeInUp">
+    <div class="auto-container">
+        <div class="outer-box">
+            <div class="row">
+                <div class="content-column order-2 col-lg-7 col-md-12 col-sm-12">
+                    <div class="inner-column">
+                        <div *ngIf="about">
+                            <div class="title">
+                                <h2>{{about.heading}}</h2>
+                            </div>
+                            <div *ngIf="about.des">
+                                <div *ngFor="let des of about.des;" class="text">
+                                    <p>{{des.des}}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="image-column col-lg-5 col-md-12 col-sm-12">
+                    <div class="inner-column">
+                        <div class="image-box">
+                            <figure class="image"><img src="assets/img/image-2.jpg" alt=""></figure>
+                        </div>
+                        <hr>
+                        <div class="image-box">
+                            <figure class="image"><img src="assets/img/image-2.jpg" alt=""></figure>
+                        </div>
+                        <hr>
+                        <div class="image-box">
+                            <figure class="image"><img src="assets/img/image-2.jpg" alt=""></figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> -->
+
+<section class="case-studies-two style-two" id='about'>
+    <div class="auto-container">
+        <div class="case-tabs tabs-box">
+            <div class="tabs-content">
+                <div class="tab active-tab">
+                    <div class="case-tab">
+                        <div class="row">
+                            <div class="content-column col-lg-12 col-md-12 col-sm-12">
+                                <div class="inner-column">
+
+                                    <div class="title">
+                                        <h3 style="text-transform: uppercase; text-align: center;">{{aboutIntro.heading}}
+                                        </h3>
+                                    </div>
+
+                                    <div *ngIf="about" >
+                                        <div *ngFor="let info of about;">
+                                            <p class="text" style="text-align: justify;">{{info.des}}</p>
+                                            <div *ngIf="info.imgUrl">
+                                                <div class="image-column col-lg-7 col-md-12 col-sm-12">
+                                                    <div class="inner-column">
+                                                        <div class="image-box">
+                                                            <figure class="image"><img src="assets/img/image-2.jpg" alt="">
+                                                            </figure>
+                                                        </div>
+    
+                                                    </div>
+                                                </div>
+                                            </div>
+    
+                                        </div>
+                                    </div>                        
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- Misiion Section -->
+<section class="mission-section" id='mission'>
+    <div class="auto-container">
+        <div class="row">
+            <!-- Content Column -->
+            <div class="content-column order-2 col-lg-6 col-md-12 col-sm-12">
+
+                <div class="inner-column">
+                    <div class="sec-title">
+                        <h2>{{mission.heading}}</h2>
+                    </div>
+                    <div class="description">
+                        <div class="text">{{mission.brief[0]}}</div>
+                    </div>
+                </div>
+
+                <div class="testimonial-block-two wow slideInRight">
+                    <div class="inner-box">
+                        <div class="sec-title">
+                            <h2 style="color: white;">{{vision.heading}}</h2>
+                        </div>
+                        <div class="text">{{vision.brief[0]}}</div>
+                        <span class="icon fa fa-quote-right"></span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Image Column -->
+            <div class="image-column col-lg-6 col-md-12 col-sm-12">
+                <div class="inner-column ">
+                    <div class="image-box">
+                        <figure class="image"><img src="assets/img/vision.jpg" alt=""></figure>
+                    </div>
+                    <!-- <div class="lower-content">
+                        <div *ngFor="let des of mission.des;">
+                            <div class="text"> {{des.des}}
+                            </div>
+
+                        </div>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--End Features Section -->
+
+<!-- Features Section -->
+<section class="features-section style-two" id='corevalue'>
+    <div class="auto-container">
+        <div class="row">
+            <!-- Title Column -->
+            <div class="title-column col-lg-5 col-md-12 col-sm-12">
+                <div class="inner-column">
+                    <div class="sec-title light" style="padding: 0px 20px 10px;">
+                        <span class="icon pe-7s-display1"></span>
+                        <span class="title"></span>
+                        <h2>{{corevalue.heading}}</h2>
+                        <div class="text">{{corevalue.brief}}</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="features-column col-lg-7 col-md-12 col-sm-12" style="background-color: white;">
+                <div class="inner-column">
+                    <div class="row">
+                        <!-- Feature block -->
+                        <div class="feature-block col-lg-6 col-md-6 col-sm-12 wow fadeInUp"
+                            *ngFor="let des of corevalue.des;">
+                            <div class="inner-box">
+                                <h4><a style="text-decoration: none">{{des.heading}}</a></h4>
+                                <div class="text">{{des.des}}</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--End Features Section -->
+
+<section class="about-section" id='market'>
+    <div class="auto-container">
+        <div class="icon-layer wow slideInLeft" data-wow-delay="400ms"></div>
+        <div class="row">
+            <!-- Content Column -->
+            <div class="content-column col-lg-6 col-md-12 col-sm-12">
+                <div class="inner-column">
+                    <div class="sec-title-two">
+                        <span class="title"></span>
+                        <h2>{{market.heading}}</h2>
+                    </div>
+                    <div class="message">{{market.brief}}</div>
+                </div>
+            </div>
+
+            <!-- image column -->
+            <div class="image-column col-lg-6 col-md-12 col-sm-12">
+                <div class="inner-column">
+                    <div class="image-box wow fadeInRight">
+                        <figure class="image"><img src="{{market.imgUrl}}" alt=""></figure>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
